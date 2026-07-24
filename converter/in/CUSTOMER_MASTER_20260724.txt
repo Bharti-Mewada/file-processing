@@ -1,0 +1,5 @@
+customer_id,customer_name,email,status
+1001,Bharti,bharti@gmail.com,ACTIVE
+1002,Rahul,rahul@gmail.com,ACTIVE
+1003,Amit,amit@gmail.com,INACTIVE
+1004,Priya,priya@gmail.com,ACTIVE
